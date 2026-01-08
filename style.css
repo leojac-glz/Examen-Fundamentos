@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    padding: 20px;
+}
+
+h1 { 
+    text-align: center; /* Centra el texto */
+  color: #334299; /* Cambia el color a un azul (puedes usar red, #FF0000, rgb(255,0,0), etc.) */
+  /* Opcional: Añadir otros estilos */
+  font-family: Arial, sans-serif;
+  font-size: 2.5em;
+}
+
+ 
+
+.card {
+    background: white;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+}
+
+button {
+    background-color:green;
+    margin-top: 10px;
+    padding: 8px 15px;
+    cursor: pointer; 
+  
+}
+h3 {color: red; 
+.card{
+    padding: 15px;
+    margin:20px auto;
+    width: 80%;
+    border-radious: 8px;
+    box-shadow: 0 0 10px black rgba(0,0,0,0,1);
+}
+  
+}  
+h4 {color: blueviolet; 
+.card{
+    padding: 15px;
+    margin:20px auto;
+    width: 80%;
+    border-radious: 8px;
+    box-shadow: 0 0 10px black rgba(0,0,0,0,1);
+}
+  
+}      
+   h2 {color:red; 
+.card{
+    padding: 15px;
+    margin:20px auto;
+    width: 80%;
+    border-radious: 8px;
+    box-shadow: 0 0 10px black rgba(0,0,0,0,1);
+}
+   }
