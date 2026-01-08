@@ -41,7 +41,7 @@ function guardarArchivo() {
         const enlace = document.createElement("a");
 
         enlace.href = URL.createObjectURL(blob);
-        enlace.download = "archivo.txt";
+        enlace.download = "examen tercer parcial leonardo jacinto gonzalez.txt";
         enlace.click();
 
         URL.revokeObjectURL(enlace.href);
@@ -51,4 +51,5 @@ function guardarArchivo() {
     } finally {
         console.log("Proceso de escritura finalizado.");
     }
+
 }
